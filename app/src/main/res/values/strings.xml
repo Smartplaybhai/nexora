@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NEXORA</string>
+    <string name="package_name">com.nexora.ai</string>
+    <string name="custom_url">https://mera-ai-personal-ai-assistant.ai.studio</string>
+</resources>
